@@ -1,0 +1,49 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+185.217.110.103,15114,443,true,LHR,Europe,London,189,2.34
+38.59.240.180,43215,443,true,SJC,North America,San Jose,186,1.82
+37.123.193.187,134,443,true,SJC,North America,San Jose,203,1.69
+82.115.30.11,57178,443,true,FRA,Europe,Frankfurt,188,1.63
+38.59.246.41,9443,443,true,SJC,North America,San Jose,174,1.51
+37.123.192.172,443,443,true,SJC,North America,San Jose,205,1.51
+185.218.7.21,30152,443,true,SJC,North America,San Jose,188,1.47
+37.123.193.228,19220,443,true,SJC,North America,San Jose,206,1.42
+38.59.224.99,4397,443,true,LHR,Europe,London,198,1.17
+82.115.31.28,35043,443,true,FRA,Europe,Frankfurt,192,1.09
+38.59.228.188,14759,443,true,AMS,Europe,Amsterdam,182,1.08
+31.25.88.68,33985,443,true,FRA,Europe,Frankfurt,186,1.08
+37.123.193.163,101,443,true,SJC,North America,San Jose,181,1.02
+31.25.88.68,28704,443,true,FRA,Europe,Frankfurt,184,0.99
+37.123.193.187,109,443,true,SJC,North America,San Jose,206,0.97
+38.59.228.24,57773,443,true,FRA,Europe,Frankfurt,184,0.97
+38.59.228.188,32707,443,true,AMS,Europe,Amsterdam,187,0.92
+38.59.241.39,10000,443,true,SJC,North America,San Jose,184,0.90
+38.59.246.12,530,443,true,SJC,North America,San Jose,179,0.89
+185.218.7.22,443,443,true,SJC,North America,San Jose,186,0.89
+185.148.13.32,10005,443,true,SJC,North America,San Jose,204,0.89
+38.59.228.24,49597,443,true,AMS,Europe,Amsterdam,185,0.87
+31.25.89.105,13358,443,true,FRA,Europe,Frankfurt,192,0.84
+37.123.193.178,24915,443,true,SJC,North America,San Jose,185,0.81
+82.115.31.84,443,443,true,FRA,Europe,Frankfurt,177,0.72
+38.59.249.179,18090,443,true,SJC,North America,San Jose,171,0.72
+185.148.15.29,19171,443,true,SJC,North America,San Jose,189,0.65
+37.123.193.178,14867,443,true,SJC,North America,San Jose,192,0.65
+38.59.245.253,5433,443,true,SJC,North America,San Jose,184,0.57
+38.59.240.180,23176,443,true,SJC,North America,San Jose,177,0.50
+37.123.193.187,102,443,true,SJC,North America,San Jose,210,0.43
+103.136.185.15,28608,443,true,SJC,North America,San Jose,183,0.43
+37.123.193.187,126,443,true,SJC,North America,San Jose,205,0.39
+37.123.193.236,19752,443,true,SJC,North America,San Jose,206,0.38
+37.123.194.109,443,443,true,SJC,North America,San Jose,183,0.38
+31.25.88.68,18058,443,true,AMS,Europe,Amsterdam,191,0.31
+45.9.10.100,30443,443,true,SJC,North America,San Jose,173,0.29
+37.123.193.101,17475,443,true,SJC,North America,San Jose,187,0.26
+38.59.243.116,22040,443,true,SJC,North America,San Jose,184,0.21
+37.123.193.187,149,443,true,SJC,North America,San Jose,208,0.00
+38.59.224.24,35525,443,true,LHR,Europe,London,196,0.00
+38.59.224.24,39488,443,true,LHR,Europe,London,203,0.00
+38.59.224.24,49647,443,true,LHR,Europe,London,190,0.00
+38.59.224.24,29902,443,true,LHR,Europe,London,194,0.00
+38.59.224.24,38903,443,true,LHR,Europe,London,189,0.00
+38.59.224.24,32900,443,true,LHR,Europe,London,188,0.00
+82.115.31.92,32092,80,false,FRA,Europe,Frankfurt,186,0.00
+185.217.108.43,4034,2053,true,FRA,Europe,Frankfurt,186,0.00

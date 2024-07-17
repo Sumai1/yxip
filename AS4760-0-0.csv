@@ -1,0 +1,9 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms)
+219.76.13.186,443,443,true,HKG,Asia Pacific,Hong Kong,29
+219.76.13.166,443,443,true,HKG,Asia Pacific,Hong Kong,26
+219.76.13.183,443,443,true,HKG,Asia Pacific,Hong Kong,28
+219.76.13.169,443,443,true,HKG,Asia Pacific,Hong Kong,26
+219.76.13.164,443,443,true,HKG,Asia Pacific,Hong Kong,26
+219.76.13.177,443,443,true,HKG,Asia Pacific,Hong Kong,31
+219.76.13.167,443,443,true,HKG,Asia Pacific,Hong Kong,28
+219.76.13.180,443,443,true,HKG,Asia Pacific,Hong Kong,28

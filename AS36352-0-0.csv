@@ -1,0 +1,41 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+192.210.243.216,2053,443,true,YYZ,North America,Toronto,274,1.86
+23.94.95.60,8443,443,true,ATL,North America,Atlanta,246,1.65
+107.175.224.66,55684,443,true,LAX,North America,Los Angeles,182,1.54
+23.94.136.126,80,443,true,ORD,North America,Chicago,257,1.30
+23.94.101.139,2053,443,true,AMS,Europe,Amsterdam,185,1.16
+107.175.91.114,21269,443,true,DFW,North America,Dallas,217,0.86
+23.94.0.119,34237,2096,true,DFW,North America,Dallas,216,0.77
+107.172.84.76,34237,2096,true,BUF,North America,Buffalo,263,0.76
+107.175.222.33,8443,443,true,IAD,North America,Ashburn,250,0.68
+23.95.235.137,443,443,true,YYZ,North America,Toronto,259,0.65
+192.227.227.87,8443,443,true,YYZ,North America,Toronto,259,0.58
+107.172.62.49,27013,443,true,BUF,North America,Buffalo,249,0.56
+172.245.107.99,45203,443,true,YYZ,North America,Toronto,257,0.53
+107.175.35.20,27661,443,true,BUF,North America,Buffalo,273,0.50
+23.94.136.126,8080,443,true,ORD,North America,Chicago,243,0.50
+172.245.56.89,15365,443,true,DFW,North America,Dallas,213,0.50
+107.172.62.49,40722,443,true,YYZ,North America,Toronto,244,0.44
+198.12.123.64,443,443,true,YYZ,North America,Toronto,245,0.38
+107.175.35.20,52290,443,true,BUF,North America,Buffalo,274,0.36
+198.144.183.24,443,443,true,ORD,North America,Chicago,249,0.35
+107.172.34.213,53285,443,true,BUF,North America,Buffalo,248,0.32
+104.168.28.65,443,443,true,SJC,North America,San Jose,282,0.10
+23.94.212.4,443,443,true,SEA,North America,Seattle,320,0.08
+23.94.25.168,443,443,true,SJC,North America,San Jose,304,0.07
+192.210.196.113,34237,2096,true,SJC,North America,San Jose,264,0.06
+192.210.136.205,15894,443,true,SJC,North America,San Jose,303,0.06
+23.94.25.245,15182,443,true,SJC,North America,San Jose,330,0.05
+192.3.150.56,8000,443,true,SEA,North America,Seattle,322,0.04
+104.168.94.29,18082,443,true,SJC,North America,San Jose,297,0.04
+192.3.59.191,8443,443,true,SJC,North America,San Jose,275,0.04
+107.172.83.17,22135,443,true,SJC,North America,San Jose,305,0.04
+107.173.111.72,1443,443,true,SJC,North America,San Jose,296,0.04
+107.174.186.62,8443,443,true,SJC,North America,San Jose,311,0.04
+107.174.242.22,54523,443,true,SEA,North America,Seattle,319,0.03
+23.94.214.114,56162,443,true,SJC,North America,San Jose,298,0.03
+107.175.44.118,58621,443,true,SJC,North America,San Jose,299,0.02
+23.94.208.167,2053,443,true,SJC,North America,San Jose,299,0.01
+107.174.242.151,34561,443,true,SEA,North America,Seattle,301,0.01
+23.95.61.176,20552,443,true,SJC,North America,San Jose,331,0.00
+23.95.67.107,2053,8443,true,SJC,North America,San Jose,337,0.00

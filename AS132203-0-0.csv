@@ -1,0 +1,13 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+43.153.80.208,443,443,true,SJC,North America,San Jose,187,2.52
+43.131.49.250,443,443,true,FRA,Europe,Frankfurt,172,1.66
+43.153.103.203,443,443,true,SJC,North America,San Jose,186,1.47
+43.153.119.207,443,443,true,SJC,North America,San Jose,189,0.71
+43.155.28.244,443,443,true,HKG,Asia Pacific,Hong Kong,58,0.06
+170.106.35.96,80,80,false,IAD,North America,Ashburn,238,0.00
+43.131.49.250,80,80,false,FRA,Europe,Frankfurt,169,0.00
+129.226.12.38,443,443,true,HKG,Asia Pacific,Hong Kong,55,0.00
+43.156.253.94,443,443,true,SIN,Asia Pacific,Singapore,172,0.00
+43.156.116.194,443,443,true,SIN,Asia Pacific,Singapore,330,0.00
+49.51.197.141,443,443,true,SJC,North America,San Jose,170,0.00
+43.134.34.18,443,443,true,SIN,Asia Pacific,Singapore,311,0.00

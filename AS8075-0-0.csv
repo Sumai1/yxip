@@ -1,0 +1,42 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+20.33.30.36,2083,443,true,LAX,North America,Los Angeles,300,2.21
+20.52.251.165,2087,443,true,FRA,Europe,Frankfurt,209,2.04
+20.52.162.197,8080,443,true,FRA,Europe,Frankfurt,208,1.89
+13.87.188.67,443,443,true,SJC,North America,San Jose,184,1.78
+4.255.56.138,443,443,true,IAD,North America,Ashburn,263,1.57
+20.52.251.165,443,443,true,FRA,Europe,Frankfurt,202,1.30
+52.143.135.67,2053,443,true,CDG,Europe,Paris,215,0.81
+20.90.163.76,2053,443,true,MAN,Europe,Manchester,270,0.52
+20.90.163.76,8443,443,true,MAN,Europe,Manchester,272,0.44
+51.103.218.229,2053,443,true,MXP,Europe,Milan,214,0.36
+20.62.202.159,443,443,true,IAD,North America,Ashburn,256,0.28
+20.233.254.155,8443,443,true,BOM,Asia Pacific,Mumbai,196,0.28
+51.103.218.229,8443,443,true,MXP,Europe,Milan,209,0.23
+20.113.60.62,8080,443,true,FRA,Europe,Frankfurt,247,0.17
+51.120.122.42,2083,443,true,CPH,Europe,Copenhagen,239,0.17
+13.88.29.102,443,443,true,SJC,North America,San Jose,180,0.14
+20.240.217.172,443,443,true,FRA,Europe,Frankfurt,276,0.06
+20.33.62.19,2083,443,true,LHR,Europe,London,265,0.05
+20.74.50.78,443,80,false,CDG,Europe,Paris,256,0.02
+20.246.127.166,443,443,true,IAD,North America,Ashburn,233,0.00
+98.70.26.236,443,443,true,BOM,Asia Pacific,Mumbai,104,0.00
+52.163.67.59,80,80,false,SIN,Asia Pacific,Singapore,69,0.00
+20.58.24.221,2086,2086,false,MAN,Europe,Manchester,208,0.00
+52.234.229.14,80,80,false,IAD,North America,Ashburn,296,0.00
+52.191.4.140,80,80,false,IAD,North America,Ashburn,259,0.00
+52.234.252.219,80,80,false,IAD,North America,Ashburn,284,0.00
+13.68.186.91,443,443,true,IAD,North America,Ashburn,250,0.00
+40.71.73.40,80,80,false,IAD,North America,Ashburn,256,0.00
+13.90.247.162,80,80,false,IAD,North America,Ashburn,234,0.00
+13.90.226.140,80,80,false,IAD,North America,Ashburn,241,0.00
+51.141.162.228,80,80,false,SEA,North America,Seattle,224,0.00
+20.109.23.42,443,443,true,IAD,North America,Ashburn,228,0.00
+13.90.247.73,80,80,false,IAD,North America,Ashburn,233,0.00
+13.90.226.104,80,80,false,IAD,North America,Ashburn,235,0.00
+13.90.240.37,80,80,false,IAD,North America,Ashburn,242,0.00
+74.249.233.213,443,443,true,ORD,North America,Chicago,250,0.00
+13.90.228.67,80,80,false,IAD,North America,Ashburn,263,0.00
+20.121.115.188,443,443,true,IAD,North America,Ashburn,255,0.00
+4.255.56.137,80,80,false,IAD,North America,Ashburn,279,0.00
+13.90.241.128,80,80,false,IAD,North America,Ashburn,272,0.00
+4.230.8.95,443,443,true,ICN,Asia Pacific,Seoul,114,0.00

@@ -1,0 +1,118 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+52.193.4.149,443,443,true,NRT,Asia Pacific,Tokyo,113,5.98
+18.163.125.29,2086,2086,false,HKG,Asia Pacific,Hong Kong,126,2.77
+13.114.9.116,443,443,true,NRT,Asia Pacific,Tokyo,118,1.88
+3.252.77.56,2087,443,true,DUB,Europe,Dublin,188,1.78
+54.170.105.133,443,443,true,AMS,Europe,Amsterdam,195,1.77
+13.38.53.164,8443,443,true,CDG,Europe,Paris,193,1.72
+3.139.198.114,2053,443,true,ORD,North America,Chicago,279,1.69
+18.134.9.126,443,443,true,LHR,Europe,London,187,1.62
+18.171.209.142,8080,443,true,LHR,Europe,London,178,1.54
+52.213.38.126,443,443,true,DUB,Europe,Dublin,182,1.44
+13.43.173.97,8080,443,true,LHR,Europe,London,190,1.43
+13.51.173.26,8443,443,true,AMS,Europe,Amsterdam,193,1.42
+54.171.27.145,443,443,true,AMS,Europe,Amsterdam,202,1.39
+3.252.77.56,2096,443,true,DUB,Europe,Dublin,183,1.37
+13.36.244.203,8443,443,true,CDG,Europe,Paris,195,1.27
+18.130.70.64,2096,443,true,LHR,Europe,London,197,1.24
+63.32.194.15,8443,443,true,DUB,Europe,Dublin,209,1.15
+13.40.119.154,2053,443,true,LHR,Europe,London,183,1.07
+3.252.142.72,2083,443,true,DUB,Europe,Dublin,201,1.05
+51.44.8.117,8443,443,true,CDG,Europe,Paris,200,1.00
+18.228.23.117,443,443,true,GRU,South America,São Paulo,369,0.94
+13.48.195.102,8080,443,true,ARN,Europe,Stockholm,197,0.82
+3.99.247.247,8443,443,true,DFW,North America,Dallas,296,0.82
+13.53.165.65,8080,443,true,ARN,Europe,Stockholm,189,0.80
+3.9.61.105,2053,443,true,LHR,Europe,London,189,0.75
+54.70.214.119,8443,443,true,SEA,North America,Seattle,240,0.67
+3.135.41.11,443,443,true,ORD,North America,Chicago,272,0.65
+15.228.157.181,443,443,true,GRU,South America,São Paulo,390,0.59
+18.228.13.11,443,443,true,GRU,South America,São Paulo,381,0.58
+18.169.10.212,8080,443,true,LHR,Europe,London,201,0.47
+3.140.142.249,2053,443,true,ORD,North America,Chicago,257,0.46
+3.98.54.22,2053,443,true,YUL,North America,Montréal,292,0.39
+13.36.64.125,8443,443,true,CDG,Europe,Paris,181,0.38
+3.8.185.82,8080,443,true,LHR,Europe,London,194,0.37
+54.77.191.241,443,443,true,DUB,Europe,Dublin,193,0.36
+18.237.176.63,2053,443,true,SEA,North America,Seattle,236,0.35
+3.9.18.106,8080,443,true,LHR,Europe,London,195,0.32
+54.216.71.162,2053,443,true,DUB,Europe,Dublin,192,0.30
+52.58.52.105,443,443,true,FRA,Europe,Frankfurt,165,0.24
+13.53.54.176,8080,443,true,ARN,Europe,Stockholm,184,0.24
+54.74.164.212,8443,443,true,DUB,Europe,Dublin,193,0.23
+52.58.248.166,443,443,true,FRA,Europe,Frankfurt,188,0.22
+18.199.143.75,8443,443,true,FRA,Europe,Frankfurt,178,0.18
+52.49.41.80,2053,443,true,DUB,Europe,Dublin,199,0.16
+18.153.244.138,443,443,true,FRA,Europe,Frankfurt,164,0.13
+18.168.151.116,8080,443,true,LHR,Europe,London,199,0.12
+3.124.236.70,443,443,true,FRA,Europe,Frankfurt,186,0.11
+54.74.164.212,2053,443,true,DUB,Europe,Dublin,194,0.10
+13.41.203.20,8080,443,true,LHR,Europe,London,221,0.09
+18.168.114.50,443,443,true,LHR,Europe,London,200,0.04
+15.157.58.104,443,443,false,YUL,North America,Montréal,307,0.00
+3.8.158.124,80,443,true,LHR,Europe,London,214,0.00
+52.53.247.43,80,443,true,SJC,North America,San Jose,199,0.00
+54.219.130.94,80,443,true,SJC,North America,San Jose,215,0.00
+3.120.212.75,443,443,true,FRA,Europe,Frankfurt,196,0.00
+54.153.85.10,80,443,true,SJC,North America,San Jose,193,0.00
+13.40.42.188,80,443,true,LHR,Europe,London,185,0.00
+18.216.55.100,80,80,false,ORD,North America,Chicago,272,0.00
+13.57.241.143,80,443,true,SJC,North America,San Jose,199,0.00
+3.23.238.192,80,80,false,ORD,North America,Chicago,249,0.00
+204.110.220.251,80,443,true,SEA,North America,Seattle,204,0.00
+204.110.221.84,80,443,true,SEA,North America,Seattle,209,0.00
+3.101.110.90,80,443,true,SJC,North America,San Jose,211,0.00
+54.193.213.190,80,443,true,SJC,North America,San Jose,231,0.00
+204.110.220.68,80,443,true,SEA,North America,Seattle,209,0.00
+204.110.220.120,80,443,true,SEA,North America,Seattle,213,0.00
+3.69.0.8,443,443,true,FRA,Europe,Frankfurt,172,0.00
+54.151.68.167,443,443,true,SJC,North America,San Jose,233,0.00
+13.57.51.213,80,443,true,SJC,North America,San Jose,231,0.00
+204.110.220.12,80,443,true,SEA,North America,Seattle,223,0.00
+204.110.220.3,443,443,true,SEA,North America,Seattle,207,0.00
+204.110.221.121,80,443,true,SEA,North America,Seattle,219,0.00
+13.56.251.164,80,443,true,SJC,North America,San Jose,231,0.00
+54.74.189.161,443,443,true,DUB,Europe,Dublin,190,0.00
+54.176.142.183,80,443,true,SJC,North America,San Jose,215,0.00
+204.110.220.141,80,443,true,SEA,North America,Seattle,242,0.00
+204.110.221.22,80,443,true,SEA,North America,Seattle,255,0.00
+54.193.109.100,80,443,true,SJC,North America,San Jose,201,0.00
+67.226.222.2,443,443,true,ORD,North America,Chicago,254,0.00
+67.226.222.81,80,443,true,ORD,North America,Chicago,273,0.00
+52.12.11.249,80,443,true,SEA,North America,Seattle,235,0.00
+13.54.198.183,443,443,true,SYD,Oceania,Sydney,163,0.00
+67.226.222.148,80,443,true,ORD,North America,Chicago,258,0.00
+13.40.54.182,80,443,true,LHR,Europe,London,188,0.00
+13.57.235.239,80,443,true,SJC,North America,San Jose,210,0.00
+67.226.222.86,80,443,true,ORD,North America,Chicago,277,0.00
+204.110.221.17,80,443,true,SEA,North America,Seattle,231,0.00
+204.110.223.223,80,443,true,ORD,North America,Chicago,273,0.00
+204.110.223.207,80,443,true,ORD,North America,Chicago,263,0.00
+204.110.220.1,80,443,true,SEA,North America,Seattle,242,0.00
+54.203.85.46,80,443,true,SEA,North America,Seattle,239,0.00
+67.226.222.132,80,443,true,ORD,North America,Chicago,261,0.00
+52.89.138.13,443,443,true,SEA,North America,Seattle,236,0.00
+204.110.220.203,80,443,true,SEA,North America,Seattle,248,0.00
+204.110.223.9,80,443,true,ORD,North America,Chicago,274,0.00
+18.171.244.60,80,443,true,LHR,Europe,London,189,0.00
+204.110.220.2,80,443,true,SEA,North America,Seattle,230,0.00
+67.226.222.79,80,443,true,ORD,North America,Chicago,260,0.00
+204.110.223.183,80,443,true,ORD,North America,Chicago,272,0.00
+67.226.222.227,80,443,true,ORD,North America,Chicago,278,0.00
+204.110.223.135,80,443,true,ORD,North America,Chicago,280,0.00
+204.110.223.199,80,443,true,ORD,North America,Chicago,283,0.00
+52.10.78.7,443,443,true,SEA,North America,Seattle,253,0.00
+204.110.223.18,80,443,true,ORD,North America,Chicago,266,0.00
+18.156.209.101,443,443,true,FRA,Europe,Frankfurt,195,0.00
+18.171.159.35,80,443,true,LHR,Europe,London,207,0.00
+18.135.67.188,443,443,true,LHR,Europe,London,202,0.00
+52.18.155.172,443,0,true,DUB,Europe,Dublin,206,0.00
+18.170.39.27,80,443,true,LHR,Europe,London,189,0.00
+204.110.223.1,443,443,true,ORD,North America,Chicago,266,0.00
+18.170.99.240,80,443,true,LHR,Europe,London,204,0.00
+13.37.224.156,2053,0,true,CDG,Europe,Paris,174,0.00
+18.171.243.187,80,443,true,LHR,Europe,London,207,0.00
+13.41.3.20,443,443,true,LHR,Europe,London,196,0.00
+18.171.165.89,80,443,true,LHR,Europe,London,181,0.00
+18.171.235.80,80,443,true,LHR,Europe,London,183,0.00
+3.123.254.137,8443,443,true,FRA,Europe,Frankfurt,180,0.00
